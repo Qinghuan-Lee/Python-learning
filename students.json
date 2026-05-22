@@ -1,0 +1,23 @@
+[
+    {
+        "student_id": "1234",
+        "name": "小明",
+        "age": 17,
+        "gender": "男",
+        "grade": "24"
+    },
+    {
+        "student_id": "123",
+        "name": "小红",
+        "age": 19,
+        "gender": "男",
+        "grade": "24"
+    },
+    {
+        "student_id": "12345",
+        "name": "小刚",
+        "age": 19,
+        "gender": "男",
+        "grade": "24"
+    }
+]

@@ -1,0 +1,4573 @@
+[
+    {
+        "id": 2737738,
+        "chapterName": "01",
+        "order": 1,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM5QTM0ATMycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMwETMyUTM2UTM"
+    },
+    {
+        "id": 2737739,
+        "chapterName": "02",
+        "order": 2,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM5QTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737740,
+        "chapterName": "03",
+        "order": 3,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM=YTOycTM2ATM2ATMzATM3UTMyUTM4ATM5ATMwETMyUTM4QTM"
+    },
+    {
+        "id": 2737741,
+        "chapterName": "04",
+        "order": 4,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM=cTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737742,
+        "chapterName": "05",
+        "order": 5,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM=gTOycTM2ATM2ATMzATM3UTM1UTM0ETM4ATM3ATM2QTM4QTM"
+    },
+    {
+        "id": 2737743,
+        "chapterName": "06",
+        "order": 6,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM=kTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737744,
+        "chapterName": "07",
+        "order": 7,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737745,
+        "chapterName": "08",
+        "order": 8,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTMxATMycTM2ATM2ATMzATM2UTMyUTM0ETM3ATM5ATMxUTM3UTM"
+    },
+    {
+        "id": 2737746,
+        "chapterName": "09",
+        "order": 9,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTMyATMycTM2ATM2ATMzATM3UTM3UTMxETM0ATM1ATM3QTMxUTM"
+    },
+    {
+        "id": 2737747,
+        "chapterName": "10",
+        "order": 10,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737748,
+        "chapterName": "11",
+        "order": 11,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM0ATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMwETM4QTM1UTM"
+    },
+    {
+        "id": 2737749,
+        "chapterName": "12",
+        "order": 12,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMwUTM1ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737750,
+        "chapterName": "13",
+        "order": 13,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM=YTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737751,
+        "chapterName": "14",
+        "order": 14,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM=cTOycTM2ATM2ATMzATM3UTMwUTMwETM5ATM3ATMwUTM4QTM"
+    },
+    {
+        "id": 2737752,
+        "chapterName": "15",
+        "order": 15,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM=gTOycTM2ATM2ATMzATM3UTMyUTM4ATM5ATMwETMyUTM4QTM"
+    },
+    {
+        "id": 2737753,
+        "chapterName": "16",
+        "order": 16,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM=kTOycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737754,
+        "chapterName": "17",
+        "order": 17,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTMwATMycTM2ATM2ATMzATM3UTMyUTM5ATMyATM1ATM3QTM2UTM"
+    },
+    {
+        "id": 2737755,
+        "chapterName": "18",
+        "order": 18,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTMxATMycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737756,
+        "chapterName": "19",
+        "order": 19,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTMyATMycTM2ATM2ATM0ATM4QTMyUTM5ATMzATMyETM0UTM2UTM"
+    },
+    {
+        "id": 2737757,
+        "chapterName": "20",
+        "order": 20,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTMzATMycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737758,
+        "chapterName": "21",
+        "order": 21,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM0ATMycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737759,
+        "chapterName": "22",
+        "order": 22,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMxUTM1ATMycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737760,
+        "chapterName": "23",
+        "order": 23,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM=YTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737761,
+        "chapterName": "24",
+        "order": 24,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM=cTOycTM2ATM2ATMzATM2UTMyUTM0ETM3ATM2ATM1QTMyUTM"
+    },
+    {
+        "id": 2737762,
+        "chapterName": "25",
+        "order": 25,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737763,
+        "chapterName": "26",
+        "order": 26,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATMzATMwETM5QTM0UTM"
+    },
+    {
+        "id": 2737764,
+        "chapterName": "27",
+        "order": 27,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTMwATMycTM2ATM2ATMzATM3UTMyUTM5ATMyATM1ATM3QTM2UTM"
+    },
+    {
+        "id": 2737765,
+        "chapterName": "28",
+        "order": 28,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTMxATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737766,
+        "chapterName": "29",
+        "order": 29,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTMyATMycTM2ATM2ATMzATM3UTMyUTM4ATM5ATMwETMyUTM4QTM"
+    },
+    {
+        "id": 2737767,
+        "chapterName": "30",
+        "order": 30,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTMzATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMwETM4QTM1UTM"
+    },
+    {
+        "id": 2737768,
+        "chapterName": "31",
+        "order": 31,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737769,
+        "chapterName": "32",
+        "order": 32,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMyUTM1ATMycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737770,
+        "chapterName": "33",
+        "order": 33,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM=YTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATM5ATM0UTM5QTM"
+    },
+    {
+        "id": 2737771,
+        "chapterName": "34",
+        "order": 34,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM=cTOycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737772,
+        "chapterName": "35",
+        "order": 35,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM=gTOycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737773,
+        "chapterName": "36",
+        "order": 36,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM=kTOycTM2ATM2ATMzATM3UTMwUTMwETM5ATM3ATMwUTM4QTM"
+    },
+    {
+        "id": 2737774,
+        "chapterName": "37",
+        "order": 37,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTMwATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM1ATM3QTMxUTM"
+    },
+    {
+        "id": 2737775,
+        "chapterName": "38",
+        "order": 38,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTMxATMycTM2ATM2ATMzATM3UTM4QTMzETM5ATMzATMxUTM1UTM"
+    },
+    {
+        "id": 2737776,
+        "chapterName": "39",
+        "order": 39,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTMyATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM1ATM3QTMxUTM"
+    },
+    {
+        "id": 2737777,
+        "chapterName": "40",
+        "order": 40,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTMzATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMwETM4QTM1UTM"
+    },
+    {
+        "id": 2737778,
+        "chapterName": "41（上）",
+        "order": 41,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737779,
+        "chapterName": "41（下）",
+        "order": 42,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATMzUTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737780,
+        "chapterName": "42（上）",
+        "order": 43,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM=YTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737781,
+        "chapterName": "42（下）",
+        "order": 44,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM1ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 2737782,
+        "chapterName": "43（上）",
+        "order": 45,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM=gTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737783,
+        "chapterName": "43（下）",
+        "order": 46,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM=kTOycTM2ATM2ATMzATM2UTMyUTM0ETM2ATMyETM4QTMzUTM"
+    },
+    {
+        "id": 2737784,
+        "chapterName": "44（上）",
+        "order": 47,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTMwATMycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMxUTM"
+    },
+    {
+        "id": 2737785,
+        "chapterName": "44（下）",
+        "order": 48,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTMxATMycTM2ATM2ATMzATM3UTMwUTMwETM5ATM3ATMwUTM4QTM"
+    },
+    {
+        "id": 2737786,
+        "chapterName": "45（上）",
+        "order": 49,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTMyATMycTM2ATM2ATMzATM2UTMyUTM0ETM3ATM4ATMzUTMyUTM"
+    },
+    {
+        "id": 2737787,
+        "chapterName": "45（下）",
+        "order": 50,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTMzATMycTM2ATM2ATMzATM3UTMwUTMwETM5ATM3ATMwUTM4QTM"
+    },
+    {
+        "id": 2737788,
+        "chapterName": "46（上）",
+        "order": 51,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737789,
+        "chapterName": "46（下）",
+        "order": 52,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM0UTM1ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737790,
+        "chapterName": "47(上）",
+        "order": 53,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737791,
+        "chapterName": "47(下）",
+        "order": 54,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737792,
+        "chapterName": "48（上）",
+        "order": 55,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737793,
+        "chapterName": "48（下）",
+        "order": 56,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM1ATM2ATM5QTM0UTM"
+    },
+    {
+        "id": 2737794,
+        "chapterName": "49（上）",
+        "order": 57,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTMwATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737795,
+        "chapterName": "49（下）",
+        "order": 58,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTMxATMycTM2ATM2ATM0ATM4QTMxUTM2ATMxATM2ATM0UTMyUTM"
+    },
+    {
+        "id": 2737796,
+        "chapterName": "50（上）",
+        "order": 59,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737797,
+        "chapterName": "50（下）",
+        "order": 60,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTMzATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737798,
+        "chapterName": "51（上）",
+        "order": 61,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM1ATM2ATM5QTM0UTM"
+    },
+    {
+        "id": 2737799,
+        "chapterName": "51（下）",
+        "order": 62,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATM5ATM1UTM1ATMycTM2ATM2ATM0ATM4QTM4QTMzETM4ATMwETMwUTMwUTM"
+    },
+    {
+        "id": 2737800,
+        "chapterName": "52（上）",
+        "order": 63,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737801,
+        "chapterName": "52（下）",
+        "order": 64,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737802,
+        "chapterName": "53（上）",
+        "order": 65,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM=gTOycTM2ATM2ATM0ATM4QTM4QTM3ATM1ATM2ATM5QTM0UTM"
+    },
+    {
+        "id": 2737803,
+        "chapterName": "53（下）",
+        "order": 66,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM=kTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737804,
+        "chapterName": "54（上）",
+        "order": 67,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737805,
+        "chapterName": "54（下）",
+        "order": 68,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTMxATMycTM2ATM2ATMzATM2UTMyUTM0ETM3ATM5ATMyUTMwUTM"
+    },
+    {
+        "id": 2737806,
+        "chapterName": "55（上）",
+        "order": 69,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTMyATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATM4ATM0UTM0UTM"
+    },
+    {
+        "id": 2737807,
+        "chapterName": "55（下）",
+        "order": 70,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTMzATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737808,
+        "chapterName": "56（上）",
+        "order": 71,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737809,
+        "chapterName": "56(下）",
+        "order": 72,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM2QTM1ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM1ATM2ATM5QTM0UTM"
+    },
+    {
+        "id": 2737810,
+        "chapterName": "57（上）",
+        "order": 73,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737811,
+        "chapterName": "57（下）",
+        "order": 74,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737812,
+        "chapterName": "58（上）",
+        "order": 75,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM=gTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMxUTM"
+    },
+    {
+        "id": 2737813,
+        "chapterName": "58（下）",
+        "order": 76,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM=kTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737814,
+        "chapterName": "59（上）",
+        "order": 77,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTMwATMycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATM5QTMxUTM"
+    },
+    {
+        "id": 2737815,
+        "chapterName": "59（下）",
+        "order": 78,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTMxATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737816,
+        "chapterName": "60（上）",
+        "order": 79,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737817,
+        "chapterName": "60（下）",
+        "order": 80,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTMzATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737818,
+        "chapterName": "61（上）",
+        "order": 81,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737819,
+        "chapterName": "61（下）",
+        "order": 82,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM3QTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737820,
+        "chapterName": "62（上）",
+        "order": 83,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737821,
+        "chapterName": "62(下）",
+        "order": 84,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737822,
+        "chapterName": "63（上）",
+        "order": 85,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737823,
+        "chapterName": "63（下）",
+        "order": 86,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMxUTM"
+    },
+    {
+        "id": 2737824,
+        "chapterName": "64（上）",
+        "order": 87,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTMwATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737825,
+        "chapterName": "64(下）",
+        "order": 88,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737826,
+        "chapterName": "65（上）",
+        "order": 89,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737827,
+        "chapterName": "65（下）",
+        "order": 90,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTMzATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATM3ATMwUTMwUTM"
+    },
+    {
+        "id": 2737828,
+        "chapterName": "66（上）",
+        "order": 91,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM0ATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATM4ATM3QTM4QTM"
+    },
+    {
+        "id": 2737829,
+        "chapterName": "66（下）",
+        "order": 92,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM4QTM1ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM1ATM2ATM5QTM0UTM"
+    },
+    {
+        "id": 2737830,
+        "chapterName": "67（上）",
+        "order": 93,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM=YTOycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATM5QTMxUTM"
+    },
+    {
+        "id": 2737831,
+        "chapterName": "67（下）",
+        "order": 94,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737832,
+        "chapterName": "68（上）",
+        "order": 95,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737833,
+        "chapterName": "68（下）",
+        "order": 96,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM=kTOycTM2ATM2ATMzATM3UTMzUTM3ATM5ATMxETMxUTMxUTM"
+    },
+    {
+        "id": 2737834,
+        "chapterName": "69（上）",
+        "order": 97,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTMwATMycTM2ATM2ATM0ATM4QTMyUTMyETM4ATM5ATMwUTM2UTM"
+    },
+    {
+        "id": 2737835,
+        "chapterName": "69（下）",
+        "order": 98,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTMxATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737836,
+        "chapterName": "70（上）",
+        "order": 99,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM0UTM"
+    },
+    {
+        "id": 2737837,
+        "chapterName": "70（下）",
+        "order": 100,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTMzATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737838,
+        "chapterName": "71（上）",
+        "order": 101,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM1UTM"
+    },
+    {
+        "id": 2737839,
+        "chapterName": "71（下）",
+        "order": 102,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM5QTM1ATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737840,
+        "chapterName": "72（上）",
+        "order": 103,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737841,
+        "chapterName": "72（下）",
+        "order": 104,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM=cTOycTM2ATM2ATMzATM3UTM3UTMwETM1ATM4ATM0UTM1UTM"
+    },
+    {
+        "id": 2737842,
+        "chapterName": "73（上）",
+        "order": 105,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737843,
+        "chapterName": "73（下）",
+        "order": 106,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM=kTOycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2737844,
+        "chapterName": "74(上）",
+        "order": 107,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTMwATMycTM2ATM2ATM0ATM4QTM4QTMzETM4ATMyETM1QTMxUTM"
+    },
+    {
+        "id": 2737845,
+        "chapterName": "74（下）",
+        "order": 108,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737846,
+        "chapterName": "75（上）",
+        "order": 109,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTMyATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737847,
+        "chapterName": "75（下）",
+        "order": 110,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTMzATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737848,
+        "chapterName": "76（上）",
+        "order": 111,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737849,
+        "chapterName": "76（下）",
+        "order": 112,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMwUTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM1UTM"
+    },
+    {
+        "id": 2737850,
+        "chapterName": "77（上）",
+        "order": 113,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737851,
+        "chapterName": "77（下）",
+        "order": 114,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM=cTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737852,
+        "chapterName": "78（上）",
+        "order": 115,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM=gTOycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737853,
+        "chapterName": "78（下）",
+        "order": 116,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM=kTOycTM2ATM2ATMzATM2UTM0UTMxETM4ATM4ATM0UTMxUTM"
+    },
+    {
+        "id": 2737854,
+        "chapterName": "79（上）",
+        "order": 117,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTMwATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737855,
+        "chapterName": "79（下）",
+        "order": 118,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTMxATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737856,
+        "chapterName": "80（上）",
+        "order": 119,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTMyATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737857,
+        "chapterName": "80（下）",
+        "order": 120,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMyUTM"
+    },
+    {
+        "id": 2737858,
+        "chapterName": "81（上）",
+        "order": 121,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMyUTM"
+    },
+    {
+        "id": 2737859,
+        "chapterName": "81（下）",
+        "order": 122,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMxUTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM1UTM"
+    },
+    {
+        "id": 2737860,
+        "chapterName": "82（上）",
+        "order": 123,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM=YTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737861,
+        "chapterName": "82（下）",
+        "order": 124,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM=cTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737862,
+        "chapterName": "83（上）",
+        "order": 125,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM=gTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737863,
+        "chapterName": "83（下）",
+        "order": 126,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM=kTOycTM2ATM2ATMzATM3UTM4QTM1ATM0ATM3ATMxUTMzUTM"
+    },
+    {
+        "id": 2737864,
+        "chapterName": "84（上）",
+        "order": 127,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTMwATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737865,
+        "chapterName": "84（下）",
+        "order": 128,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTMxATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737866,
+        "chapterName": "85（上）",
+        "order": 129,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737867,
+        "chapterName": "85（下）",
+        "order": 130,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTMzATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM1UTM"
+    },
+    {
+        "id": 2737868,
+        "chapterName": "86（上）",
+        "order": 131,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM0ATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2737869,
+        "chapterName": "86（下）",
+        "order": 132,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMyUTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737870,
+        "chapterName": "87（上）",
+        "order": 133,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM=YTOycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737871,
+        "chapterName": "87（下）",
+        "order": 134,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM=cTOycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737872,
+        "chapterName": "88（上）",
+        "order": 135,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMyUTM"
+    },
+    {
+        "id": 2737873,
+        "chapterName": "88（下）",
+        "order": 136,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM=kTOycTM2ATM2ATMzATM3UTMwUTMxETM4ATMxETMzUTMzUTM"
+    },
+    {
+        "id": 2737874,
+        "chapterName": "89（上）",
+        "order": 137,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737875,
+        "chapterName": "89（下）",
+        "order": 138,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTMxATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2737876,
+        "chapterName": "90（上）",
+        "order": 139,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTMyATMycTM2ATM2ATMzATM3UTM4QTM2ATMwATMyETM0UTMzUTM"
+    },
+    {
+        "id": 2737877,
+        "chapterName": "90（下）",
+        "order": 140,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTMzATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2737878,
+        "chapterName": "91（上）",
+        "order": 141,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM0ATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737879,
+        "chapterName": "91（下）",
+        "order": 142,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETMzUTM1ATMycTM2ATM2ATMzATM3UTMwUTMxETM5ATM1ATM5QTM5QTM"
+    },
+    {
+        "id": 2737880,
+        "chapterName": "92（上）",
+        "order": 143,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM=YTOycTM2ATM2ATMzATM2UTMyUTM0ETM3ATM5ATMyUTMxUTM"
+    },
+    {
+        "id": 2737881,
+        "chapterName": "92（下）",
+        "order": 144,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM=cTOycTM2ATM2ATMzATM3UTMwUTMxETM5ATM2ATMzUTM1UTM"
+    },
+    {
+        "id": 2737882,
+        "chapterName": "93（上）",
+        "order": 145,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETM1QTM1UTM"
+    },
+    {
+        "id": 2737883,
+        "chapterName": "93（下）",
+        "order": 146,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM=kTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737884,
+        "chapterName": "94（上）",
+        "order": 147,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTMwATMycTM2ATM2ATM0ATM4QTMxUTMzETM5ATMzATM4QTM1UTM"
+    },
+    {
+        "id": 2737885,
+        "chapterName": "94（下）",
+        "order": 148,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTMxATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM1UTM"
+    },
+    {
+        "id": 2737886,
+        "chapterName": "95（上）",
+        "order": 149,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMwETMxUTM4QTM"
+    },
+    {
+        "id": 2737887,
+        "chapterName": "95（下）",
+        "order": 150,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTMzATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2737888,
+        "chapterName": "96（上）",
+        "order": 151,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM0ATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737889,
+        "chapterName": "96（下）",
+        "order": 152,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM0UTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMyATMyETM2QTMzUTM"
+    },
+    {
+        "id": 2737890,
+        "chapterName": "97（上）",
+        "order": 153,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737891,
+        "chapterName": "97（下）",
+        "order": 154,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM=cTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737892,
+        "chapterName": "98（上）",
+        "order": 155,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM=gTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737893,
+        "chapterName": "98（下）",
+        "order": 156,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM=kTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737894,
+        "chapterName": "99（上）",
+        "order": 157,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTMwATMycTM2ATM2ATMzATM2UTM3UTM3ATM2ATMxETM5QTM2UTM"
+    },
+    {
+        "id": 2737895,
+        "chapterName": "99（下）",
+        "order": 158,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTMxATMycTM2ATM2ATMzATM2UTM3UTM3ATM5ATM2ATM5QTM5QTM"
+    },
+    {
+        "id": 2737896,
+        "chapterName": "100（上）",
+        "order": 159,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTMyATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMxETM1QTMyUTM"
+    },
+    {
+        "id": 2737897,
+        "chapterName": "100（下）",
+        "order": 160,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTMzATMycTM2ATM2ATMzATM2UTM3UTM3ATM5ATM2ATM5QTM5QTM"
+    },
+    {
+        "id": 2737898,
+        "chapterName": "101（上）",
+        "order": 161,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMzUTM"
+    },
+    {
+        "id": 2737899,
+        "chapterName": "101（下）",
+        "order": 162,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMwETM1UTM1ATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMyETM0UTMxUTM"
+    },
+    {
+        "id": 2737900,
+        "chapterName": "102（上）",
+        "order": 163,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM=YTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATMzATMwUTM1UTM"
+    },
+    {
+        "id": 2737901,
+        "chapterName": "102（下）",
+        "order": 164,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737902,
+        "chapterName": "103（上）",
+        "order": 165,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM1ATM1QTMzUTM"
+    },
+    {
+        "id": 2737903,
+        "chapterName": "103（下）",
+        "order": 166,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM=kTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737904,
+        "chapterName": "104（上）",
+        "order": 167,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTMwATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737905,
+        "chapterName": "104（下)",
+        "order": 168,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM2ATMyUTMxUTM"
+    },
+    {
+        "id": 2737906,
+        "chapterName": "105(上）",
+        "order": 169,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATMwUTM2UTM"
+    },
+    {
+        "id": 2737907,
+        "chapterName": "105（下)",
+        "order": 170,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTMzATMycTM2ATM2ATM0ATM4QTMyUTMyETM4ATM5ATMwUTM1UTM"
+    },
+    {
+        "id": 2737908,
+        "chapterName": "106(上)",
+        "order": 171,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737909,
+        "chapterName": "106(下）",
+        "order": 172,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM2QTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737910,
+        "chapterName": "107（上）",
+        "order": 173,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737911,
+        "chapterName": "107（下）",
+        "order": 174,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737912,
+        "chapterName": "108（上）",
+        "order": 175,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM=gTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737913,
+        "chapterName": "108（下）",
+        "order": 176,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM=kTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737914,
+        "chapterName": "109（上）",
+        "order": 177,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTMwATMycTM2ATM2ATMzATM3UTM4QTM1ATM0ATM3ATMxUTMzUTM"
+    },
+    {
+        "id": 2737915,
+        "chapterName": "109（下）",
+        "order": 178,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTMxATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737916,
+        "chapterName": "110（上）",
+        "order": 179,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTMyATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM0UTM"
+    },
+    {
+        "id": 2737917,
+        "chapterName": "110（下）",
+        "order": 180,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTMzATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATM4ATM0UTM2UTM"
+    },
+    {
+        "id": 2737918,
+        "chapterName": "111（上）",
+        "order": 181,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737919,
+        "chapterName": "111（下）",
+        "order": 182,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM3QTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737920,
+        "chapterName": "112（上）",
+        "order": 183,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737921,
+        "chapterName": "112（下）",
+        "order": 184,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM=cTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMzUTM"
+    },
+    {
+        "id": 2737922,
+        "chapterName": "113（上）",
+        "order": 185,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM=gTOycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM0UTM"
+    },
+    {
+        "id": 2737923,
+        "chapterName": "113（下）",
+        "order": 186,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM=kTOycTM2ATM2ATMzATM2UTM0UTMxETM2ATMxETM4QTMwUTM"
+    },
+    {
+        "id": 2737924,
+        "chapterName": "114（上）",
+        "order": 187,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTMwATMycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATM5QTM1UTM"
+    },
+    {
+        "id": 2737925,
+        "chapterName": "114（下）",
+        "order": 188,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTMxATMycTM2ATM2ATMzATM2UTM3UTM3ATM3ATM5ATM1QTM0UTM"
+    },
+    {
+        "id": 2737926,
+        "chapterName": "115（上）",
+        "order": 189,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737927,
+        "chapterName": "115（下）",
+        "order": 190,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTMzUTM"
+    },
+    {
+        "id": 2737928,
+        "chapterName": "116（上）",
+        "order": 191,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737929,
+        "chapterName": "116（下）",
+        "order": 192,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM4QTM1ATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATM4ATM0UTM2UTM"
+    },
+    {
+        "id": 2737930,
+        "chapterName": "117（上)",
+        "order": 193,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM=YTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737931,
+        "chapterName": "117(下）",
+        "order": 194,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2737932,
+        "chapterName": "118（上)",
+        "order": 195,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM=gTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737933,
+        "chapterName": "118（下）",
+        "order": 196,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM=kTOycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM0UTM"
+    },
+    {
+        "id": 2737934,
+        "chapterName": "119（上）",
+        "order": 197,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTMwATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737935,
+        "chapterName": "119（下）",
+        "order": 198,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737936,
+        "chapterName": "120（上）",
+        "order": 199,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTMyATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTM0UTM"
+    },
+    {
+        "id": 2737937,
+        "chapterName": "120（下）",
+        "order": 200,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTMzATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737938,
+        "chapterName": "121（上）",
+        "order": 201,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737939,
+        "chapterName": "121（下）",
+        "order": 202,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM5QTM1ATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737940,
+        "chapterName": "122（上）",
+        "order": 203,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM=YTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737941,
+        "chapterName": "122（下）",
+        "order": 204,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737942,
+        "chapterName": "123（上）",
+        "order": 205,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMxETM0UTM0UTM"
+    },
+    {
+        "id": 2737943,
+        "chapterName": "123（下）",
+        "order": 206,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737944,
+        "chapterName": "124（上）",
+        "order": 207,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTMwATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737945,
+        "chapterName": "124（下）",
+        "order": 208,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTMxATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATMzATMwUTM4QTM"
+    },
+    {
+        "id": 2737946,
+        "chapterName": "125（上）",
+        "order": 209,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTMyATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737947,
+        "chapterName": "125（下）",
+        "order": 210,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTMzATMycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMyUTM"
+    },
+    {
+        "id": 2737948,
+        "chapterName": "126（上）",
+        "order": 211,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM0ATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737949,
+        "chapterName": "126（下）",
+        "order": 212,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMwUTM1ATMycTM2ATM2ATMzATM3UTMzUTM3ATMxATM2ATM1QTMzUTM"
+    },
+    {
+        "id": 2737950,
+        "chapterName": "127（上）",
+        "order": 213,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM=YTOycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM3UTM"
+    },
+    {
+        "id": 2737951,
+        "chapterName": "127（下）",
+        "order": 214,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM=cTOycTM2ATM2ATM0ATM4QTM4QTMzETM4ATMyETMzUTMzUTM"
+    },
+    {
+        "id": 2737952,
+        "chapterName": "128（上）",
+        "order": 215,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737953,
+        "chapterName": "128（下）",
+        "order": 216,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM=kTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737954,
+        "chapterName": "129（上）",
+        "order": 217,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETM3QTMyUTM"
+    },
+    {
+        "id": 2737955,
+        "chapterName": "129（下）",
+        "order": 218,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTMxATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737956,
+        "chapterName": "130（上）",
+        "order": 219,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTMyATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737957,
+        "chapterName": "130（下）",
+        "order": 220,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTMzATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737958,
+        "chapterName": "第131回 卑鄙的联手（上）",
+        "order": 221,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM1ATM2QTM2UTM"
+    },
+    {
+        "id": 2737959,
+        "chapterName": "第131回 卑鄙的联手（下）",
+        "order": 222,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMxUTM1ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM2ATMzUTMzUTM"
+    },
+    {
+        "id": 2737960,
+        "chapterName": "第132回 斗丹（上）",
+        "order": 223,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM=YTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737961,
+        "chapterName": "第132回 斗丹（下）",
+        "order": 224,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737962,
+        "chapterName": "第133回 炼丹劫（上）",
+        "order": 225,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737963,
+        "chapterName": "第133回 炼丹劫（下）",
+        "order": 226,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM=kTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737964,
+        "chapterName": "第134回 炸鼎成丹（上）",
+        "order": 227,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTMwATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737965,
+        "chapterName": "第134回 炸鼎成丹（下）",
+        "order": 228,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737966,
+        "chapterName": "第135回 炼药师精神（上）",
+        "order": 229,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737967,
+        "chapterName": "第135回 炼药师精神（下）",
+        "order": 230,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTMzATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM2ATMxUTM3UTM"
+    },
+    {
+        "id": 2737968,
+        "chapterName": "第136回 守护兽（上）",
+        "order": 231,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM0ATMycTM2ATM2ATMzATM3UTM4QTM2ATMyATMwETM4QTM5QTM"
+    },
+    {
+        "id": 2737969,
+        "chapterName": "第136回 守护兽（下）",
+        "order": 232,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMyUTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737970,
+        "chapterName": "第137回 巨蟒战天猿（上）",
+        "order": 233,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM=YTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737971,
+        "chapterName": "第137回 巨蟒战天猿（下）",
+        "order": 234,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737972,
+        "chapterName": "第138回 又见小女王（上）",
+        "order": 235,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737973,
+        "chapterName": "第138回 又见小女王（下）",
+        "order": 236,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM=kTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737974,
+        "chapterName": "第139回 对战白程（上）",
+        "order": 237,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMxUTM3UTM"
+    },
+    {
+        "id": 2737975,
+        "chapterName": "第139回 对战白程（下）",
+        "order": 238,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737976,
+        "chapterName": "第140回 王者归来（上）",
+        "order": 239,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTMyATMycTM2ATM2ATMzATM3UTM2UTMyETM3ATMxETMxUTMwUTM"
+    },
+    {
+        "id": 2737977,
+        "chapterName": "第140回 王者归来（下）",
+        "order": 240,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737978,
+        "chapterName": "第141回 天魔铠甲（上）",
+        "order": 241,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM0ATMycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737979,
+        "chapterName": "第141回 天魔铠甲（下）",
+        "order": 242,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETMzUTM1ATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737980,
+        "chapterName": "第142回 强榜第一名（上）",
+        "order": 243,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM=YTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737981,
+        "chapterName": "第142回 强榜第一名（下）",
+        "order": 244,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2737982,
+        "chapterName": "第143回 黑魔（上）",
+        "order": 245,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM=gTOycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737983,
+        "chapterName": "第143回 黑魔（下）",
+        "order": 246,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2737984,
+        "chapterName": "第144回 死神（上）",
+        "order": 247,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTMwATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737985,
+        "chapterName": "第144回 死神（下）",
+        "order": 248,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTMxATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737986,
+        "chapterName": "第145回 变强的决心（上）",
+        "order": 249,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTMyATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATM1ATM4QTM1UTM"
+    },
+    {
+        "id": 2737987,
+        "chapterName": "第145回 变强的决心（下）",
+        "order": 250,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737988,
+        "chapterName": "第146回 炎爆走（上）",
+        "order": 251,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM0ATMycTM2ATM2ATM0ATM4QTMwUTM2ATM5ATMwETMzUTM0UTM"
+    },
+    {
+        "id": 2737989,
+        "chapterName": "第146回 炎爆走（下）",
+        "order": 252,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM0UTM1ATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATM0ATM3QTM5QTM"
+    },
+    {
+        "id": 2737990,
+        "chapterName": "第147回 强榜开打（上）",
+        "order": 253,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2737991,
+        "chapterName": "第147回 强榜开打（下）",
+        "order": 254,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737992,
+        "chapterName": "第148回 开胃前菜（上）",
+        "order": 255,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM=gTOycTM2ATM2ATMzATM3UTM3UTMwETM1ATM5ATM1QTM5QTM"
+    },
+    {
+        "id": 2737993,
+        "chapterName": "第148回 开胃前菜（下）",
+        "order": 256,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737994,
+        "chapterName": "第149回 浴血一战",
+        "order": 257,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2737995,
+        "chapterName": "第150回 女神",
+        "order": 258,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTMxATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2737996,
+        "chapterName": "第151回 离别",
+        "order": 259,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTMyATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2737997,
+        "chapterName": "第152回 异火暴动",
+        "order": 260,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737998,
+        "chapterName": "第153回 大恶战",
+        "order": 261,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2737999,
+        "chapterName": "第154回 背恩忘义",
+        "order": 262,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM4ATMxETM1UTM1ATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATM5ATM1QTM5QTM"
+    },
+    {
+        "id": 2738000,
+        "chapterName": "第155回 舍生取义",
+        "order": 263,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738001,
+        "chapterName": "第156回 烈火",
+        "order": 264,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM=cTOycTM2ATM2ATMzATM3UTMwUTMyETMwATM1ATM2QTMzUTM"
+    },
+    {
+        "id": 2738002,
+        "chapterName": "第157回 地心",
+        "order": 265,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM=gTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738003,
+        "chapterName": "第158回 兄弟情重",
+        "order": 266,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM=kTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738004,
+        "chapterName": "第159回 大张挞伐",
+        "order": 267,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM4ATMxUTMwUTM"
+    },
+    {
+        "id": 2738005,
+        "chapterName": "第160回 半步斗皇、击倒！",
+        "order": 268,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM4ATMxUTMwUTM"
+    },
+    {
+        "id": 2738006,
+        "chapterName": "第161回 斗王巅峰",
+        "order": 269,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTMyATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738007,
+        "chapterName": "第162回 萧门拍卖会",
+        "order": 270,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTM0UTM"
+    },
+    {
+        "id": 2738008,
+        "chapterName": "第163回 出征！",
+        "order": 271,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM4ATMwUTM0UTM"
+    },
+    {
+        "id": 2738009,
+        "chapterName": "第164回 反击的号角（上）",
+        "order": 272,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM2QTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738010,
+        "chapterName": "第164回 反击的号角（下）",
+        "order": 273,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM=YTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738011,
+        "chapterName": "第165回 魔鬼（上）",
+        "order": 274,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM=cTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATMzATM4QTMwUTM"
+    },
+    {
+        "id": 2738012,
+        "chapterName": "第165回 魔鬼（下）",
+        "order": 275,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738013,
+        "chapterName": "第166回 婚礼（上）",
+        "order": 276,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738014,
+        "chapterName": "第166回 婚礼（下）",
+        "order": 277,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738015,
+        "chapterName": "第167回 师徒恩情",
+        "order": 278,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738016,
+        "chapterName": "第168回 自食恶果",
+        "order": 279,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTMyATMycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMyUTM4QTM"
+    },
+    {
+        "id": 2738017,
+        "chapterName": "第169回 又见嫣然",
+        "order": 280,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTMzATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738018,
+        "chapterName": "第170回 痛苦",
+        "order": 281,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738019,
+        "chapterName": "第171回 爱恨两难",
+        "order": 282,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM3QTM1ATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATM4ATMwUTMxUTM"
+    },
+    {
+        "id": 2738020,
+        "chapterName": "第172回 长亭短亭",
+        "order": 283,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM=YTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738021,
+        "chapterName": "第173回 毒",
+        "order": 284,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM=cTOycTM2ATM2ATMzATM3UTM4QTM2ATMyATMwETM4QTM5QTM"
+    },
+    {
+        "id": 2738022,
+        "chapterName": "第174回 升级",
+        "order": 285,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM=gTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738023,
+        "chapterName": "第175回 帝国的危机",
+        "order": 286,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738024,
+        "chapterName": "第176回 慕兰三老",
+        "order": 287,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738025,
+        "chapterName": "第177回 刀光剑影",
+        "order": 288,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTMxATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738026,
+        "chapterName": "第178回 落天",
+        "order": 289,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTMyATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738027,
+        "chapterName": "第179回 故人之意",
+        "order": 290,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTMzATMycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738028,
+        "chapterName": "第180回 厄难之毒",
+        "order": 291,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM4ATM4QTM4QTM"
+    },
+    {
+        "id": 2738029,
+        "chapterName": "第181回 结盟",
+        "order": 292,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM4QTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM5ATM2QTM0UTM"
+    },
+    {
+        "id": 2738030,
+        "chapterName": "第182回 兰梦之征",
+        "order": 293,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738031,
+        "chapterName": "第183回 造化春晖",
+        "order": 294,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738032,
+        "chapterName": "第184回 入出云",
+        "order": 295,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM=gTOycTM2ATM2ATM0ATM4QTM4QTMzETM5ATMzATM0UTMzUTM"
+    },
+    {
+        "id": 2738033,
+        "chapterName": "第185回 万蝎之战",
+        "order": 296,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM=kTOycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738034,
+        "chapterName": "第186回 踏蝎山",
+        "order": 297,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTMwATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738035,
+        "chapterName": "第187回 血蝎魔皇",
+        "order": 298,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM0UTM"
+    },
+    {
+        "id": 2738036,
+        "chapterName": "第188回 翻海印",
+        "order": 299,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTMyATMycTM2ATM2ATMzATM3UTMzUTM3ATM5ATMxETMxUTMyUTM"
+    },
+    {
+        "id": 2738037,
+        "chapterName": "第189回 毒魔斑",
+        "order": 300,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738038,
+        "chapterName": "第190回 魂殿的秘密",
+        "order": 301,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738039,
+        "chapterName": "第191回 魔炎高手",
+        "order": 302,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM5QTM1ATMycTM2ATM2ATMzATM2UTMyUTM0ETM2ATM4ATM0UTM4QTM"
+    },
+    {
+        "id": 2738040,
+        "chapterName": "第192回 千药坊",
+        "order": 303,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM4ATM5ATMxUTM1UTM"
+    },
+    {
+        "id": 2738041,
+        "chapterName": "第193回 菩提之心",
+        "order": 304,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM0ATMyETMyUTMwUTM"
+    },
+    {
+        "id": 2738042,
+        "chapterName": "第194回 炼的什么药",
+        "order": 305,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM=gTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738043,
+        "chapterName": "第195回 魔兽骨",
+        "order": 306,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM=kTOycTM2ATM2ATMzATM3UTM2UTMxETM4ATMyETM2QTMwUTM"
+    },
+    {
+        "id": 2738044,
+        "chapterName": "第196回 鹰山老人",
+        "order": 307,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTMwATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATMzATMwUTMzUTM"
+    },
+    {
+        "id": 2738045,
+        "chapterName": "第197回 鸿门宴",
+        "order": 308,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTMxATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738046,
+        "chapterName": "第198回 围剿鹰山",
+        "order": 309,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTMyATMycTM2ATM2ATM0ATM4QTM4QTM4ATM4ATMxETM2QTM5QTM"
+    },
+    {
+        "id": 2738047,
+        "chapterName": "第199回 行尸走肉",
+        "order": 310,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTMzATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738048,
+        "chapterName": "第200回 自寻死路",
+        "order": 311,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738049,
+        "chapterName": "第201回 溃不成军",
+        "order": 312,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMwUTM1ATMycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATMwUTMyUTM"
+    },
+    {
+        "id": 2738050,
+        "chapterName": "第202回 返校日",
+        "order": 313,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738051,
+        "chapterName": "第203回 心炎归位",
+        "order": 314,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM=cTOycTM2ATM2ATMzATM3UTM5QTMyETM4ATM4ATMxUTM3UTM"
+    },
+    {
+        "id": 2738052,
+        "chapterName": "第204回 地魔老祖",
+        "order": 315,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM=gTOycTM2ATM2ATMzATM3UTMwUTMyETMwATM1ATM2QTM0UTM"
+    },
+    {
+        "id": 2738053,
+        "chapterName": "第205回 惊天力",
+        "order": 316,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738054,
+        "chapterName": "第206回 千百二老",
+        "order": 317,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTMwATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738055,
+        "chapterName": "第207回 炼尺",
+        "order": 318,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738056,
+        "chapterName": "第208回 天火尊者",
+        "order": 319,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTMyATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738057,
+        "chapterName": "第209回 一丘之貉",
+        "order": 320,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTMzATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATM5ATMzUTM3UTM"
+    },
+    {
+        "id": 2738058,
+        "chapterName": "第210回 干戈伐戮",
+        "order": 321,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM0ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738059,
+        "chapterName": "第211回 凶魂",
+        "order": 322,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMxUTM1ATMycTM2ATM2ATMzATM3UTM4QTM2ATMyATMwETM4QTM5QTM"
+    },
+    {
+        "id": 2738060,
+        "chapterName": "第212回 五灵暴走",
+        "order": 323,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM=YTOycTM2ATM2ATMzATM3UTM2UTMyETM1ATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2738061,
+        "chapterName": "第213回 天妖傀",
+        "order": 324,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM5ATM0ATM0UTMwUTM"
+    },
+    {
+        "id": 2738062,
+        "chapterName": "第214回 破毒厄",
+        "order": 325,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM=gTOycTM2ATM2ATMzATM3UTM2UTMyETM5ATM1ATMwUTM3UTM"
+    },
+    {
+        "id": 2738063,
+        "chapterName": "第215回 祛毒法",
+        "order": 326,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM=kTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738064,
+        "chapterName": "第216回 地魔傀儡",
+        "order": 327,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATM2ATM1QTM2UTM"
+    },
+    {
+        "id": 2738065,
+        "chapterName": "第217回 天涯城",
+        "order": 328,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTMxATMycTM2ATM2ATMzATM3UTM2UTMyETM5ATM4ATM2QTMwUTM"
+    },
+    {
+        "id": 2738066,
+        "chapterName": "第218回 空间虫洞",
+        "order": 329,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTMyATMycTM2ATM2ATMzATM3UTM2UTMyETM5ATM5ATM1QTM3UTM"
+    },
+    {
+        "id": 2738067,
+        "chapterName": "第219回 中州大陆",
+        "order": 330,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738068,
+        "chapterName": "第220回 隐藏的高手",
+        "order": 331,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM0ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738069,
+        "chapterName": "第221回 旧雨新知",
+        "order": 332,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMyUTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM4ATM4QTMzUTM"
+    },
+    {
+        "id": 2738070,
+        "chapterName": "第222回 雷暴",
+        "order": 333,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATM5ATMyUTM0UTM"
+    },
+    {
+        "id": 2738071,
+        "chapterName": "第223回 风雷动",
+        "order": 334,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM=cTOycTM2ATM2ATMzATM3UTM2UTMzETMwATMzATM2QTM4QTM"
+    },
+    {
+        "id": 2738072,
+        "chapterName": "第224回 洪宗老祖",
+        "order": 335,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738073,
+        "chapterName": "第225回 三千雷幻身",
+        "order": 336,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM=kTOycTM2ATM2ATMzATM3UTM3UTMwETM1ATMwETM5QTM1UTM"
+    },
+    {
+        "id": 2738074,
+        "chapterName": "第226回 一人做事一人当",
+        "order": 337,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTMwATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738075,
+        "chapterName": "第227回 万钧雷霆",
+        "order": 338,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTMxATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738076,
+        "chapterName": "第228回 化骨城",
+        "order": 339,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738077,
+        "chapterName": "第229回 且走且战",
+        "order": 340,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTMzATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738078,
+        "chapterName": "第230回 战幻身",
+        "order": 341,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM0ATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATMwETM5QTM1UTM"
+    },
+    {
+        "id": 2738079,
+        "chapterName": "第231话 森林之王",
+        "order": 342,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATMzUTM1ATMycTM2ATM2ATMzATM3UTMzUTM3ATM5ATMxETMxUTMyUTM"
+    },
+    {
+        "id": 2738080,
+        "chapterName": "第232回 倩影",
+        "order": 343,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM=YTOycTM2ATM2ATMzATM3UTM3UTMwETM1ATMwETM5QTM1UTM"
+    },
+    {
+        "id": 2738081,
+        "chapterName": "第233回 又见纳兰",
+        "order": 344,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM=cTOycTM2ATM2ATM0ATM4QTMwUTM3ATMwATM3ATM0UTM0UTM"
+    },
+    {
+        "id": 2738082,
+        "chapterName": "公告",
+        "order": 345,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM=gTOycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATMwUTMyUTM"
+    },
+    {
+        "id": 2738083,
+        "chapterName": "第234回 噬金鼠（上）",
+        "order": 346,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM=kTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATM2QTMwUTM"
+    },
+    {
+        "id": 2738084,
+        "chapterName": "第234回 噬金鼠（下）",
+        "order": 347,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTMwATMycTM2ATM2ATMzATM3UTM4QTM2ATMxATM4ATM1QTM4QTM"
+    },
+    {
+        "id": 2738085,
+        "chapterName": "第235回 血潭火毒（上）",
+        "order": 348,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTMxATMycTM2ATM2ATMzATM3UTM3UTMwETM1ATMwETM5QTM1UTM"
+    },
+    {
+        "id": 2738086,
+        "chapterName": "第235回 血潭火毒（下）",
+        "order": 349,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTMyATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738087,
+        "chapterName": "第236回 晋级斗宗（上）",
+        "order": 350,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738088,
+        "chapterName": "第236回 晋级斗宗（下）",
+        "order": 351,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM0ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738089,
+        "chapterName": "第237回 四方尊者（上）",
+        "order": 352,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM0UTM1ATMycTM2ATM2ATM0ATM4QTM4QTM3ATM0ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738090,
+        "chapterName": "第237回 四方尊者（下）",
+        "order": 353,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738091,
+        "chapterName": "第238回 黄泉决（上）",
+        "order": 354,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM5ATM1ATMyUTM5QTM"
+    },
+    {
+        "id": 2738092,
+        "chapterName": "第238回 黄泉决（下）",
+        "order": 355,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM=gTOycTM2ATM2ATMzATM3UTM2UTMyETM5ATM2ATMxUTM1UTM"
+    },
+    {
+        "id": 2738093,
+        "chapterName": "第239回 霸道的风尊者（上）",
+        "order": 356,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM=kTOycTM2ATM2ATMzATM3UTM2UTMyETM5ATM3ATM5QTM2UTM"
+    },
+    {
+        "id": 2738094,
+        "chapterName": "第239回 霸道的风尊者（下）",
+        "order": 357,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM5ATM4ATM4QTMzUTM"
+    },
+    {
+        "id": 2738095,
+        "chapterName": "第240回 凤骨龙姿（上）",
+        "order": 358,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738096,
+        "chapterName": "第240回 凤骨龙姿（下）",
+        "order": 359,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738097,
+        "chapterName": "第241回 探灵引（上）",
+        "order": 360,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTMzATMycTM2ATM2ATMzATM3UTMzUTM3ATM0ATM3ATM3QTMxUTM"
+    },
+    {
+        "id": 2738098,
+        "chapterName": "第241回 探灵引（下）",
+        "order": 361,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM0ATMycTM2ATM2ATMzATM3UTM2UTMyETM5ATMxETMzUTM1UTM"
+    },
+    {
+        "id": 2738099,
+        "chapterName": "第242回 乘风而去（上）",
+        "order": 362,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMyATM1UTM1ATMycTM2ATM2ATMzATM3UTM2UTMyETM5ATMyETMxUTM0UTM"
+    },
+    {
+        "id": 2738100,
+        "chapterName": "第242回 乘风而去（下）",
+        "order": 363,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738101,
+        "chapterName": "第243回 虫洞控制权（上）",
+        "order": 364,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM=cTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738102,
+        "chapterName": "第243回 虫洞控制权（下）",
+        "order": 365,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM=gTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738103,
+        "chapterName": "第244回 焚炎谷（上）",
+        "order": 366,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738104,
+        "chapterName": "第244回 焚炎谷（下）",
+        "order": 367,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738105,
+        "chapterName": "第245回 唐火儿（上）",
+        "order": 368,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTMxATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738106,
+        "chapterName": "第245回 唐火儿（下）",
+        "order": 369,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTMyATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738107,
+        "chapterName": "第246回 火菩丹（上）",
+        "order": 370,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTMzATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738108,
+        "chapterName": "第246回 火菩丹（下）",
+        "order": 371,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738109,
+        "chapterName": "第247回 十招（上）",
+        "order": 372,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM2QTM1ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738110,
+        "chapterName": "第247回 十招（下）",
+        "order": 373,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM=YTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738111,
+        "chapterName": "第248回 喜得功（上）",
+        "order": 374,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM=cTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738112,
+        "chapterName": "第248回 喜得功（下）",
+        "order": 375,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738113,
+        "chapterName": "第249回 叶城（上）",
+        "order": 376,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738114,
+        "chapterName": "第249回 叶城（下）",
+        "order": 377,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738115,
+        "chapterName": "第250回 天地不宁（上）",
+        "order": 378,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTMxATMycTM2ATM2ATM0ATM4QTM4QTM3ATMzATM2ATMzUTMxUTM"
+    },
+    {
+        "id": 2738116,
+        "chapterName": "第250回 天地不宁（下）",
+        "order": 379,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTMyATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATMzATM5QTM0UTM"
+    },
+    {
+        "id": 2738117,
+        "chapterName": "第251回 去冰尊（上）",
+        "order": 380,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738118,
+        "chapterName": "第251回 去冰尊（下）",
+        "order": 381,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738119,
+        "chapterName": "第252回 炼蝎龙（上）",
+        "order": 382,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM3QTM1ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738120,
+        "chapterName": "第252回 炼谐龙（下）",
+        "order": 383,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM=YTOycTM2ATM2ATM0ATM4QTMwUTM2ATMzATM1ATM2QTMwUTM"
+    },
+    {
+        "id": 2738121,
+        "chapterName": "第253回 天火重生（上）",
+        "order": 384,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM1ATMzATM5QTM0UTM"
+    },
+    {
+        "id": 2738122,
+        "chapterName": "第253回 天火重生（下）",
+        "order": 385,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM=gTOycTM2ATM2ATMzATM3UTM2UTMyETM1ATM1ATM0UTMwUTM"
+    },
+    {
+        "id": 2738123,
+        "chapterName": "第254回 破龙诀（上）",
+        "order": 386,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM=kTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738124,
+        "chapterName": "第254回 破龙诀（下）",
+        "order": 387,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTMwATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATM3ATMyUTMzUTM"
+    },
+    {
+        "id": 2738125,
+        "chapterName": "第255回 阳火古坛（上）",
+        "order": 388,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTMxATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATMzATM5QTM0UTM"
+    },
+    {
+        "id": 2738126,
+        "chapterName": "第255回 阳火古坛（下）",
+        "order": 389,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTMyATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMwETMxUTMxUTM"
+    },
+    {
+        "id": 2738127,
+        "chapterName": "第256回 地心珠（上）",
+        "order": 390,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTMzATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETMwUTM0UTM"
+    },
+    {
+        "id": 2738128,
+        "chapterName": "第256回 地心珠（下）",
+        "order": 391,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM0ATMycTM2ATM2ATMzATM3UTMzUTM3ATM5ATMxETMxUTMyUTM"
+    },
+    {
+        "id": 2738129,
+        "chapterName": "第257回 百鬼锁天蟒（上）",
+        "order": 392,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM4QTM1ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM4QTM"
+    },
+    {
+        "id": 2738130,
+        "chapterName": "第257回 百鬼锁天蟒（下）",
+        "order": 393,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738131,
+        "chapterName": "公告 2",
+        "order": 394,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM1ATM1ATM0UTMwUTM"
+    },
+    {
+        "id": 2738132,
+        "chapterName": "第258回 异火焚天（上）",
+        "order": 395,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM=gTOycTM2ATM2ATMzATM3UTMzUTM3ATM5ATMxETMxUTMyUTM"
+    },
+    {
+        "id": 2738133,
+        "chapterName": "第258回 异火焚天（下）",
+        "order": 396,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM=kTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738134,
+        "chapterName": "第259回 魂殿的救兵（上）",
+        "order": 397,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMwUTM"
+    },
+    {
+        "id": 2738135,
+        "chapterName": "第259回 魂殿的救兵（下）",
+        "order": 398,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTMxATMycTM2ATM2ATMzATM3UTM2UTMxETM3ATM5ATM4QTMwUTM"
+    },
+    {
+        "id": 2738136,
+        "chapterName": "第260回 冰境倒影（上）",
+        "order": 399,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTMyATMycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738137,
+        "chapterName": "第260回 冰境倒影（下）",
+        "order": 400,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTMzATMycTM2ATM2ATM0ATM4QTMwUTM2ATMzATM1ATM2QTMwUTM"
+    },
+    {
+        "id": 2738138,
+        "chapterName": "第261回 不期而会（上）",
+        "order": 401,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM0ATMycTM2ATM2ATMzATM3UTM2UTMyETM1ATMzATM5QTM0UTM"
+    },
+    {
+        "id": 2738139,
+        "chapterName": "第261回 不期而会(下)",
+        "order": 402,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM5QTM1ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738140,
+        "chapterName": "公告 3",
+        "order": 403,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738141,
+        "chapterName": "第262回 萧族古墓（上）",
+        "order": 404,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM=cTOycTM2ATM2ATM0ATM4QTMwUTM2ATMzATM1ATM2QTM4QTM"
+    },
+    {
+        "id": 2738142,
+        "chapterName": "第262回 萧族古墓（下）",
+        "order": 405,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM=gTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738143,
+        "chapterName": "第263回 祛魔斑（上）",
+        "order": 406,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM=kTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738144,
+        "chapterName": "第263回 祛魔斑（下）",
+        "order": 407,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738145,
+        "chapterName": "第264回 黑湮军（上）",
+        "order": 408,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTMxATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738146,
+        "chapterName": "第264回 黑湮军（下）",
+        "order": 409,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTMyATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738147,
+        "chapterName": "第265回 入赘贤婿（上）",
+        "order": 410,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTMzATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738148,
+        "chapterName": "第265回 入赘贤婿（下）",
+        "order": 411,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738149,
+        "chapterName": "第266回 圣丹城（上）",
+        "order": 412,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMwUTM1ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738150,
+        "chapterName": "第266回 圣丹城（下）",
+        "order": 413,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738151,
+        "chapterName": "第267回 铜片的秘密（上）",
+        "order": 414,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM=cTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738152,
+        "chapterName": "第267回 铜片的秘密（下）",
+        "order": 415,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM=gTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738153,
+        "chapterName": "第268回 丹塔的考验（上）",
+        "order": 416,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM=kTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738154,
+        "chapterName": "第268回 丹塔的考验（下）",
+        "order": 417,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTMwATMycTM2ATM2ATMzATM3UTMwUTMyETMxATM3ATM2QTMzUTM"
+    },
+    {
+        "id": 2738155,
+        "chapterName": "第269回 妖女（上）",
+        "order": 418,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTMxATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738156,
+        "chapterName": "第269回 妖女（下）",
+        "order": 419,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTMyATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738157,
+        "chapterName": "第270回 丹塔的魂技（上）",
+        "order": 420,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTMzATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738158,
+        "chapterName": "第270回 丹塔的魂技（下）",
+        "order": 421,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738159,
+        "chapterName": "271回 慕骨（上）",
+        "order": 422,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMxUTM1ATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738160,
+        "chapterName": "271回 慕骨（下）",
+        "order": 423,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738161,
+        "chapterName": "第272回 玄空子",
+        "order": 424,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM=cTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738162,
+        "chapterName": "【免费章节】福利公告",
+        "order": 425,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM=gTOycTM2ATM2ATMzATM3UTM4QTM2ATMxATM2ATMzUTM4QTM"
+    },
+    {
+        "id": 2738163,
+        "chapterName": "273回 丹会",
+        "order": 426,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM=kTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738164,
+        "chapterName": "274回 丹界荒原",
+        "order": 427,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738165,
+        "chapterName": "275回 觅宝",
+        "order": 428,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTMxATMycTM2ATM2ATM0ATM4QTMwUTM2ATMzATMzATM3QTM4QTM"
+    },
+    {
+        "id": 2738166,
+        "chapterName": "276回 山脉之主",
+        "order": 429,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTMyATMycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738167,
+        "chapterName": "277回 熊的宝藏",
+        "order": 430,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738168,
+        "chapterName": "第278回 八品炼药师",
+        "order": 431,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM0ATMycTM2ATM2ATM0ATM4QTMwUTM2ATMzATM1ATM2QTM4QTM"
+    },
+    {
+        "id": 2738169,
+        "chapterName": "279回 丹塔炼丹会",
+        "order": 432,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMyUTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738170,
+        "chapterName": "280回 丹塔炼丹会（二）",
+        "order": 433,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738171,
+        "chapterName": "281回 雷霆万钧",
+        "order": 434,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM=cTOycTM2ATM2ATMzATM3UTM2UTMyETM4ATM2ATMyUTMwUTM"
+    },
+    {
+        "id": 2738172,
+        "chapterName": "282回 胜券",
+        "order": 435,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM=gTOycTM2ATM2ATMzATM3UTM2UTMxETM5ATM0ATMzUTM5QTM"
+    },
+    {
+        "id": 2738173,
+        "chapterName": "283回 误会？",
+        "order": 436,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM=kTOycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATMwUTM2UTM"
+    },
+    {
+        "id": 2738174,
+        "chapterName": "284回 星域之门",
+        "order": 437,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738175,
+        "chapterName": "更新时间调整通知",
+        "order": 438,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738176,
+        "chapterName": "285回 星域",
+        "order": 439,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738177,
+        "chapterName": "月票活动获奖名单",
+        "order": 440,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738178,
+        "chapterName": "286回 援军",
+        "order": 441,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM0ATMycTM2ATM2ATMzATM3UTM4QTM2ATMxATM2ATMzUTMxUTM"
+    },
+    {
+        "id": 2738179,
+        "chapterName": "287回 本源之火",
+        "order": 442,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATMzUTM1ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738180,
+        "chapterName": "288回 海角天涯，两鬓生华",
+        "order": 443,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM=YTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738181,
+        "chapterName": "第289回 丹诀",
+        "order": 444,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM=cTOycTM2ATM2ATMzATM3UTMwUTMxETM5ATM4ATMwUTM2UTM"
+    },
+    {
+        "id": 2738182,
+        "chapterName": "290回 崩塌",
+        "order": 445,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738183,
+        "chapterName": "291回 封天阵",
+        "order": 446,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM=kTOycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738184,
+        "chapterName": "292回 修罗",
+        "order": 447,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTMwATMycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738185,
+        "chapterName": "293回 败者之舞",
+        "order": 448,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTMxATMycTM2ATM2ATMzATM3UTMwUTMyETMwATM0ATMwUTM5QTM"
+    },
+    {
+        "id": 2738186,
+        "chapterName": "294回 亡魂山",
+        "order": 449,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTMyATMycTM2ATM2ATMzATM3UTMwUTMyETMxATM0ATMwUTMzUTM"
+    },
+    {
+        "id": 2738187,
+        "chapterName": "295回 锁魂殿",
+        "order": 450,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTMzATMycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTMzUTM"
+    },
+    {
+        "id": 2738188,
+        "chapterName": "296回 十护法",
+        "order": 451,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM0ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738189,
+        "chapterName": "297回 摘星尊者",
+        "order": 452,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM0UTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738190,
+        "chapterName": "298回 逃魂",
+        "order": 453,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM=YTOycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMzUTM"
+    },
+    {
+        "id": 2738191,
+        "chapterName": "299回 太虚拳",
+        "order": 454,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM=cTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTM0UTM"
+    },
+    {
+        "id": 2738192,
+        "chapterName": "抽奖名单，还有端午小活动哦！",
+        "order": 455,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM=gTOycTM2ATM2ATMzATM2UTMxUTM3ATMxATM3ATMwUTMwUTM"
+    },
+    {
+        "id": 2738193,
+        "chapterName": "300回 小天尊",
+        "order": 456,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM=kTOycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738194,
+        "chapterName": "301回 碾压",
+        "order": 457,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738195,
+        "chapterName": "第302回 星陨阁",
+        "order": 458,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTMxATMycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMzUTM"
+    },
+    {
+        "id": 2738196,
+        "chapterName": "第303回 苏醒",
+        "order": 459,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTMyATMycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTM0UTM"
+    },
+    {
+        "id": 2738197,
+        "chapterName": "304回 兽域",
+        "order": 460,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTMzATMycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMzUTM"
+    },
+    {
+        "id": 2738198,
+        "chapterName": "305回 梦境",
+        "order": 461,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM0ATMycTM2ATM2ATMzATM2UTMyUTM0ETM1ATMyETMzUTM0UTM"
+    },
+    {
+        "id": 2738199,
+        "chapterName": "306回 遗迹真容",
+        "order": 462,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATMzATM1UTM1ATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738200,
+        "chapterName": "307回 机关阵",
+        "order": 463,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738201,
+        "chapterName": "308回 魂婴果",
+        "order": 464,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738202,
+        "chapterName": "309回 魂婴幻境",
+        "order": 465,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMxETMxUTMyUTM"
+    },
+    {
+        "id": 2738203,
+        "chapterName": "310回 龙凤墟",
+        "order": 466,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738204,
+        "chapterName": "311回 凰轩的实力",
+        "order": 467,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTMwATMycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738205,
+        "chapterName": "312回 暴走祖龙",
+        "order": 468,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTMxATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738206,
+        "chapterName": "313回 灵猫",
+        "order": 469,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738207,
+        "chapterName": "314回 再见青麟",
+        "order": 470,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTMzATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738208,
+        "chapterName": "315回 奇怪的卷轴",
+        "order": 471,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM0ATMycTM2ATM2ATM0ATM4QTMwUTM2ATMzATM1ATM1QTM3UTM"
+    },
+    {
+        "id": 2738209,
+        "chapterName": "316回 斗圣复活",
+        "order": 472,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM2QTM1ATMycTM2ATM2ATMzATM2UTMyUTM0ETM4ATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738210,
+        "chapterName": "317回 斗圣之战",
+        "order": 473,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM=YTOycTM2ATM2ATMzATM2UTMyUTM0ETM4ATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738211,
+        "chapterName": "318回 斗圣遗骨",
+        "order": 474,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738212,
+        "chapterName": "319回 凰族援兵",
+        "order": 475,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM=gTOycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMzUTM"
+    },
+    {
+        "id": 2738213,
+        "chapterName": "320 黑龙",
+        "order": 476,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM=kTOycTM2ATM2ATMzATM2UTMyUTM0ETM4ATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738214,
+        "chapterName": "321 大补方",
+        "order": 477,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTMwATMycTM2ATM2ATMzATM3UTM0UTM2ATM0ATM0ATM0UTMzUTM"
+    },
+    {
+        "id": 2738215,
+        "chapterName": "322回 大天造化掌",
+        "order": 478,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTMxATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738216,
+        "chapterName": "323回 生亦何欢死亦何苦",
+        "order": 479,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTMyATMycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738217,
+        "chapterName": "324回 九天尊",
+        "order": 480,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTMzATMycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738218,
+        "chapterName": "325回 重生",
+        "order": 481,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM0ATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738219,
+        "chapterName": "326回 花宗的委托",
+        "order": 482,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM3QTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738220,
+        "chapterName": "327回 花玉",
+        "order": 483,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM=YTOycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738221,
+        "chapterName": "328回 花宗宗主",
+        "order": 484,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738222,
+        "chapterName": "329回 花宗修炼场",
+        "order": 485,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM=gTOycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738223,
+        "chapterName": "330回 新焚决",
+        "order": 486,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM=kTOycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738224,
+        "chapterName": "331回 古龙岛",
+        "order": 487,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTMwATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738225,
+        "chapterName": "332回 四方龙族",
+        "order": 488,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTMxATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATM3ATM0UTM2UTM"
+    },
+    {
+        "id": 2738226,
+        "chapterName": "333回 龙皇降临",
+        "order": 489,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738227,
+        "chapterName": "334回 虚空雷池",
+        "order": 490,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTMzATMycTM2ATM2ATMzATM3UTM2UTMxETM4ATMxETM2QTMzUTM"
+    },
+    {
+        "id": 2738228,
+        "chapterName": "335回 大宴",
+        "order": 491,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738229,
+        "chapterName": "336回 古族成人礼",
+        "order": 492,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM4QTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738230,
+        "chapterName": "337回 炎族",
+        "order": 493,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM=YTOycTM2ATM2ATMzATM2UTMxUTM3ATMxATM3ATMwUTMwUTM"
+    },
+    {
+        "id": 2738231,
+        "chapterName": "338回 古界",
+        "order": 494,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM=cTOycTM2ATM2ATMzATM3UTM2UTM4ATM2ATM1ATMzUTM0UTM"
+    },
+    {
+        "id": 2738232,
+        "chapterName": "339回 古族大会",
+        "order": 495,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM=gTOycTM2ATM2ATMzATM2UTMxUTM3ATMxATM3ATMwUTMwUTM"
+    },
+    {
+        "id": 2738233,
+        "chapterName": "340回 授族纹",
+        "order": 496,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738234,
+        "chapterName": "341回 古妖",
+        "order": 497,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTMwATMycTM2ATM2ATMzATM3UTM2UTMzETMwATM0ATM3QTMxUTM"
+    },
+    {
+        "id": 2738235,
+        "chapterName": "342回 巅峰血脉",
+        "order": 498,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTMxATMycTM2ATM2ATM0ATM4QTMwUTM3ATM2ATM3ATM0UTMzUTM"
+    },
+    {
+        "id": 2738236,
+        "chapterName": "343回 神品血脉",
+        "order": 499,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTMyATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738237,
+        "chapterName": "344回 天墓魂灵",
+        "order": 500,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTMzATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738238,
+        "chapterName": "345回 第二层",
+        "order": 501,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM1ATMwETMwUTM1UTM"
+    },
+    {
+        "id": 2738239,
+        "chapterName": "346回 天墓飓风",
+        "order": 502,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATM5QTM1ATMycTM2ATM2ATM0ATM4QTMzUTM4ATMzATM3ATM2QTMwUTM"
+    },
+    {
+        "id": 2738240,
+        "chapterName": "347回 远古噬虫",
+        "order": 503,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM=YTOycTM2ATM2ATM0ATM4QTMzUTM4ATMzATM3ATM2QTMwUTM"
+    },
+    {
+        "id": 2738241,
+        "chapterName": "348回 一场游戏",
+        "order": 504,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM=cTOycTM2ATM2ATM0ATM4QTMzUTM4ATMzATM3ATM2QTM4QTM"
+    },
+    {
+        "id": 2738242,
+        "chapterName": "349回 血刀圣者",
+        "order": 505,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM=gTOycTM2ATM2ATM0ATM4QTMzUTM4ATMzATM3ATM2QTM4QTM"
+    },
+    {
+        "id": 2738243,
+        "chapterName": "350回 先祖",
+        "order": 506,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM=kTOycTM2ATM2ATM0ATM4QTM4QTM5ATM2ATMxETM0UTMzUTM"
+    },
+    {
+        "id": 2738244,
+        "chapterName": "351回 全族的希望",
+        "order": 507,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTMwATMycTM2ATM2ATM0ATM4QTMzUTM4ATMzATM3ATM2QTM4QTM"
+    },
+    {
+        "id": 2738245,
+        "chapterName": "352回 魂天帝",
+        "order": 508,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTMxATMycTM2ATM2ATMzATM3UTM0UTM2ATM2ATM5ATMzUTM2UTM"
+    },
+    {
+        "id": 2738246,
+        "chapterName": "353回 破虫皇",
+        "order": 509,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTMyATMycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738247,
+        "chapterName": "354回 虫皇夺舍",
+        "order": 510,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTMzATMycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738248,
+        "chapterName": "355回 出关！",
+        "order": 511,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2738249,
+        "chapterName": "356回 玄黄要塞",
+        "order": 512,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMwUTM1ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2738250,
+        "chapterName": "357回 攻城战",
+        "order": 513,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM=YTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738251,
+        "chapterName": "358回 救驾不迟",
+        "order": 514,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM=cTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738252,
+        "chapterName": "359回 血河天尊",
+        "order": 515,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM=gTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738253,
+        "chapterName": "360回 败血河",
+        "order": 516,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM=kTOycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2738254,
+        "chapterName": "361回 炎盟炼丹",
+        "order": 517,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTMwATMycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2738255,
+        "chapterName": "362回 离家出走",
+        "order": 518,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTMxATMycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2738256,
+        "chapterName": "363回 空间交易会",
+        "order": 519,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTMyATMycTM2ATM2ATMzATM3UTMwUTMxETM0ATMwETM1QTM3UTM"
+    },
+    {
+        "id": 2738257,
+        "chapterName": "364回 展图",
+        "order": 520,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTMzATMycTM2ATM2ATMzATM2UTMyUTMzETM2ATMwETM0UTMwUTM"
+    },
+    {
+        "id": 2738258,
+        "chapterName": "365回 妖图",
+        "order": 521,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM0ATMycTM2ATM2ATMzATM3UTM0UTM2ATM1ATM3ATMwUTMwUTM"
+    },
+    {
+        "id": 2738259,
+        "chapterName": "366回 天冥宗的陷阱",
+        "order": 522,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMxUTM1ATMycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2738260,
+        "chapterName": "367回 英雄救美",
+        "order": 523,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTM=YTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2738261,
+        "chapterName": "368回 天魔巨像",
+        "order": 524,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTM=cTOycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2738262,
+        "chapterName": "369回 兽潮大军",
+        "order": 525,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTM=gTOycTM2ATM2ATMzATM2UTMyUTMzETM2ATMwETM0UTMwUTM"
+    },
+    {
+        "id": 2738263,
+        "chapterName": "370回 突破重围",
+        "order": 526,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTM=kTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2738264,
+        "chapterName": "371回 古树傀儡",
+        "order": 527,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTMwATMycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2738265,
+        "chapterName": "372回 心 ▪ 魔",
+        "order": 528,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMwATM5ATM0ATMyUTMxATMycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2751462,
+        "chapterName": "373回 老树",
+        "order": 529,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMyATMyATM2ATMyUTM=gTOycTM2ATM2ATMzATM2UTMzUTMyETMzATMxETM4QTMwUTM"
+    },
+    {
+        "id": 2768702,
+        "chapterName": "374回 造化",
+        "order": 530,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATMzATM5ATM5ATM2QTM=gTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2799921,
+        "chapterName": "375回 骨幽圣者",
+        "order": 531,
+        "isNew": false,
+        "codes": "yIjM1ATM3ATM2ATMwETMxETM4QTM=cTOycTM2ATM2ATMzATM2UTM4QTM4ATMwATM3ATM2QTM5QTM"
+    },
+    {
+        "id": 2812070,
+        "chapterName": "376回 杀声震天",
+        "order": 532,
+        "isNew": false,
+        "codes": "yIjM1ATM4ATM=gTOzATMyATMzUTM=YTOycTM2ATM2ATM0ATM4QTMyUTM5ATM4ATM4ATM0UTM2UTM"
+    },
+    {
+        "id": 2830562,
+        "chapterName": "377回 闭关",
+        "order": 533,
+        "isNew": false,
+        "codes": "yIjM1ATM4ATMwATMxATM3ATMyUTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2864477,
+        "chapterName": "378回 强敌",
+        "order": 534,
+        "isNew": false,
+        "codes": "yIjM1ATM4ATMzATM1ATM2ATMzUTMzATMycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 2881783,
+        "chapterName": "379回 斗圣出关",
+        "order": 535,
+        "isNew": false,
+        "codes": "yIjM1ATM4ATM1ATMyATM5ATM0UTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2907863,
+        "chapterName": "380回 魂族斗圣",
+        "order": 536,
+        "isNew": false,
+        "codes": "yIjM1ATM5ATM=cTO4ATMwETMyUTM=kTOycTM2ATM2ATM0ATM4QTMzUTM3ATM5ATM5ATM3QTM5QTM"
+    },
+    {
+        "id": 2930252,
+        "chapterName": "381回 不破不立",
+        "order": 537,
+        "isNew": false,
+        "codes": "yIjM1ATM5ATMwATMxATM0ATMxUTM=gTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 2959950,
+        "chapterName": "382回 丹塔长老院",
+        "order": 538,
+        "isNew": false,
+        "codes": "yIjM1ATM5ATMyATMwETMxETMxUTM=YTOycTM2ATM2ATMzATM3UTM0UTM2ATMzATMwETM4QTMwUTM"
+    },
+    {
+        "id": 3007418,
+        "chapterName": "383回 黑魔雷",
+        "order": 539,
+        "isNew": false,
+        "codes": "yIjM2ATMwATM=cTO4ATM2ATM3QTM0ATMycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 3026173,
+        "chapterName": "384回 炼丹",
+        "order": 540,
+        "isNew": false,
+        "codes": "yIjM2ATMwATM=kTO3ATMzATMzUTM=kTOycTM2ATM2ATM0ATM4QTM5QTM4ATMzATMyETM5QTMyUTM"
+    },
+    {
+        "id": 3038651,
+        "chapterName": "第385回 天府联盟",
+        "order": 541,
+        "isNew": false,
+        "codes": "yIjM2ATMwATMwATM5ATM4ATMxUTM=cTOycTM2ATM2ATM0ATM4QTM5QTM4ATM0ATMzATMwUTMyUTM"
+    },
+    {
+        "id": 3069829,
+        "chapterName": "386回 盟主的责任",
+        "order": 542,
+        "isNew": false,
+        "codes": "yIjM2ATMwATMzATMwETMwETM4QTM1ATMycTM2ATM2ATMzATM2UTMzUTMyETMzATMxETM4QTMwUTM"
+    },
+    {
+        "id": 3085807,
+        "chapterName": "第387回 九幽地渊",
+        "order": 543,
+        "isNew": false,
+        "codes": "yIjM2ATMwATM1ATM2ATMwETM2QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATMzATM0ATMxUTM3UTM"
+    },
+    {
+        "id": 3108287,
+        "chapterName": "第388回 深渊囚牢",
+        "order": 544,
+        "isNew": false,
+        "codes": "yIjM2ATMxATM=cTO5ATM0ATM0UTMzATMycTM2ATM2ATMzATM2UTMzUTMyETMzATMxETM4QTMwUTM"
+    },
+    {
+        "id": 3135235,
+        "chapterName": "第389回 兄弟",
+        "order": 545,
+        "isNew": false,
+        "codes": "yIjM2ATMxATMwATM2ATM0ATM5QTMxATMycTM2ATM2ATMzATM2UTM0UTMxETM4ATM3ATM5QTM3UTM"
+    },
+    {
+        "id": 3150222,
+        "chapterName": "第390回 九幽冥杖",
+        "order": 546,
+        "isNew": false,
+        "codes": "yIjM2ATMxATMyATMxATM0ATM4QTM=gTOycTM2ATM2ATMzATM2UTMyUTMzETM2ATMwETM0UTMwUTM"
+    },
+    {
+        "id": 3157123,
+        "chapterName": "第391回 蟒族之主",
+        "order": 547,
+        "isNew": false,
+        "codes": "yIjM2ATMxATMyATM4ATMzATM4QTM=kTOycTM2ATM2ATM0ATM4QTMzUTM3ATM5ATM2ATM1QTMzUTM"
+    },
+    {
+        "id": 3198480,
+        "chapterName": "第392回 黄泉天怒",
+        "order": 548,
+        "isNew": false,
+        "codes": "yIjM2ATMxATM2ATM5ATM2ATM0UTM=YTOycTM2ATM2ATM0ATM4QTM4QTM5ATM3ATM0ATMyUTM3UTM"
+    },
+    {
+        "id": 3213629,
+        "chapterName": "第393回 传承",
+        "order": 549,
+        "isNew": false,
+        "codes": "yIjM2ATMyATM=gTO0ATM4ATM4QTM1ATMycTM2ATM2ATM0ATM4QTMzUTM3ATM5ATM2ATM1QTMzUTM"
+    },
+    {
+        "id": 3239144,
+        "chapterName": "第394回 血脉",
+        "order": 550,
+        "isNew": false,
+        "codes": "yIjM2ATMyATMwATMwETMzATMwUTMwATMycTM2ATM2ATM0ATM4QTMzUTM3ATM4ATM5ATM0UTMzUTM"
+    },
+    {
+        "id": 3266608,
+        "chapterName": "第395回 遇水迭桥",
+        "order": 551,
+        "isNew": false,
+        "codes": "yIjM2ATMyATMzATM3ATM4ATM2QTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3299083,
+        "chapterName": "第396回 龙族的救兵",
+        "order": 552,
+        "isNew": false,
+        "codes": "yIjM2ATMyATM2ATMwETMyATM0UTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3311312,
+        "chapterName": "第397回 登岛",
+        "order": 553,
+        "isNew": false,
+        "codes": "yIjM2ATMzATM=gTOyATM1ATM3QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3359520,
+        "chapterName": "第398回 龙岛之战",
+        "order": 554,
+        "isNew": false,
+        "codes": "yIjM2ATMzATMyATMwETM3ATM4QTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3400309,
+        "chapterName": "第399回 三龙岛",
+        "order": 555,
+        "isNew": false,
+        "codes": "yIjM2ATM0ATM=cTOxATM1ATM2QTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3414127,
+        "chapterName": "第400回 实力",
+        "order": 556,
+        "isNew": false,
+        "codes": "yIjM2ATM0ATM=gTO1ATMzATM4QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3440313,
+        "chapterName": "第401回 龙战",
+        "order": 557,
+        "isNew": false,
+        "codes": "yIjM2ATM0ATMxATMxATM1ATM3QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3484568,
+        "chapterName": "第402回 三岛龙皇",
+        "order": 558,
+        "isNew": false,
+        "codes": "yIjM2ATM0ATM1ATM1ATM3ATMyUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3492706,
+        "chapterName": "第403回 屠龙剑",
+        "order": 559,
+        "isNew": false,
+        "codes": "yIjM2ATM0ATM2ATMzATM5ATM2QTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3519645,
+        "chapterName": "第404回 万载龙髓泉",
+        "order": 560,
+        "isNew": false,
+        "codes": "yIjM2ATM1ATM=gTOwETM4ATMwUTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3530209,
+        "chapterName": "第405回 金乐城",
+        "order": 561,
+        "isNew": false,
+        "codes": "yIjM2ATM1ATMwATMxATM0ATM2QTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3536537,
+        "chapterName": "第406回 进击！人殿",
+        "order": 562,
+        "isNew": false,
+        "codes": "yIjM2ATM1ATMwATM3ATM3ATM5QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3606699,
+        "chapterName": "第407回 破！人殿",
+        "order": 563,
+        "isNew": false,
+        "codes": "yIjM2ATM2ATM=cTO3ATM4ATM1UTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3616420,
+        "chapterName": "第408回 败天尊",
+        "order": 564,
+        "isNew": false,
+        "codes": "yIjM2ATM2ATM=gTO3ATM2ATM4QTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3650099,
+        "chapterName": "第409回 副殿主",
+        "order": 565,
+        "isNew": false,
+        "codes": "yIjM2ATM2ATMyATMxATMyATM1UTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3658964,
+        "chapterName": "第410回 怨灵",
+        "order": 566,
+        "isNew": false,
+        "codes": "yIjM2ATM2ATMyATM5ATMxETMyUTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3678260,
+        "chapterName": "第411回 灵魂旅程",
+        "order": 567,
+        "isNew": false,
+        "codes": "yIjM2ATM2ATM0ATM5ATM0ATMyUTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3700313,
+        "chapterName": "第412回 天境大圆满",
+        "order": 568,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATM=cTOxATM1ATM3QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3721758,
+        "chapterName": "第413回 九品灵丹",
+        "order": 569,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATM=kTOyATM5ATMxUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3734101,
+        "chapterName": "第414回 魂灭生",
+        "order": 570,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATMwATM1ATMzATM2QTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3746603,
+        "chapterName": "第415回 妖火的荒漠",
+        "order": 571,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATMxATM3ATM4ATM2QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3781490,
+        "chapterName": "第416回 药族的挑战",
+        "order": 572,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATM1ATMyATM2ATM1UTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3794512,
+        "chapterName": "第417回 妖火降世",
+        "order": 573,
+        "isNew": false,
+        "codes": "yIjM2ATM3ATM2ATM1ATM3ATM3QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3816084,
+        "chapterName": "第418回 药尘的回忆",
+        "order": 574,
+        "isNew": false,
+        "codes": "yIjM2ATM4ATM=gTO3ATMyATM0UTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3825980,
+        "chapterName": "第419回 火奴",
+        "order": 575,
+        "isNew": false,
+        "codes": "yIjM2ATM4ATM=kTO2ATMxETM0UTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3837942,
+        "chapterName": "第420回 妖火真身",
+        "order": 576,
+        "isNew": false,
+        "codes": "yIjM2ATM4ATMwATM4ATMxETMwUTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3862196,
+        "chapterName": "第421回 强劲的异火",
+        "order": 577,
+        "isNew": false,
+        "codes": "yIjM2ATM4ATMzATMzATMzATM1UTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3872831,
+        "chapterName": "第422回 天罗炼火",
+        "order": 578,
+        "isNew": false,
+        "codes": "yIjM2ATM4ATM0ATMzATMwETM5QTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 3901540,
+        "chapterName": "第423回 火天彻地",
+        "order": 579,
+        "isNew": false,
+        "codes": "yIjM2ATM5ATM=cTOyATM3ATMwUTM=YTOycTM2ATM2ATM0ATM4QTMzUTM3ATM4ATM1ATM3QTM2UTM"
+    },
+    {
+        "id": 3906004,
+        "chapterName": "第424回 魂火",
+        "order": 580,
+        "isNew": false,
+        "codes": "yIjM2ATM5ATM=cTO3ATMyATM2QTMwATMycTM2ATM2ATM0ATM4QTMzUTM3ATM4ATM1ATM4QTM2UTM"
+    },
+    {
+        "id": 3939095,
+        "chapterName": "第425回 魂魔",
+        "order": 581,
+        "isNew": false,
+        "codes": "yIjM2ATM5ATMwATMwETMyATM1UTMxATMycTM2ATM2ATM0ATM4QTMzUTM3ATM4ATM1ATM4QTM2UTM"
+    },
+    {
+        "id": 3960262,
+        "chapterName": "第426回 妖圣",
+        "order": 582,
+        "isNew": false,
+        "codes": "yIjM2ATM5ATMzATMxATM0ATMyUTM=gTOycTM2ATM2ATM0ATM4QTMzUTM3ATM4ATM1ATM4QTM2UTM"
+    },
+    {
+        "id": 3960264,
+        "chapterName": "第427回 逃出生天",
+        "order": 583,
+        "isNew": false,
+        "codes": "yIjM2ATM5ATMzATMxATM0ATMyUTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 4001305,
+        "chapterName": "第428回 火灵小伊",
+        "order": 584,
+        "isNew": false,
+        "codes": "yIjM3ATMwATM=cTOyATM1ATM2QTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATMyATMxETMyUTM0UTM"
+    },
+    {
+        "id": 4068322,
+        "chapterName": "第429回 炼魂蛊",
+        "order": 585,
+        "isNew": false,
+        "codes": "yIjM3ATMwATMzATM5ATM1ATM4QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4068323,
+        "chapterName": "第430回 虚无吞炎",
+        "order": 586,
+        "isNew": false,
+        "codes": "yIjM3ATMwATMzATM5ATM1ATM4QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4120430,
+        "chapterName": "第431回 吞噬",
+        "order": 587,
+        "isNew": false,
+        "codes": "yIjM3ATMxATM=kTOxATM2ATM5QTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4163688,
+        "chapterName": "第432回 名扬天下",
+        "order": 1149,
+        "isNew": false,
+        "codes": "yIjM3ATMxATMzATM0ATM4ATM0UTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4179859,
+        "chapterName": "第433回 出关",
+        "order": 1150,
+        "isNew": false,
+        "codes": "yIjM3ATMxATM0ATMwETMwETMxUTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4245957,
+        "chapterName": "第434回 圣火降龙",
+        "order": 1151,
+        "isNew": false,
+        "codes": "yIjM3ATMyATMxATM2ATMxETMxUTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4270015,
+        "chapterName": "第435回 九玄金雷",
+        "order": 1152,
+        "isNew": false,
+        "codes": "yIjM3ATMyATM0ATMxATMyATM3QTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4299303,
+        "chapterName": "第436回 众星齐炼",
+        "order": 1153,
+        "isNew": false,
+        "codes": "yIjM3ATMyATM2ATMwETM1ATM2QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4365227,
+        "chapterName": "第437回 问鼎",
+        "order": 1154,
+        "isNew": false,
+        "codes": "yIjM3ATMzATMzATM2ATM0ATM4QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4387023,
+        "chapterName": "第438回 九品玄丹",
+        "order": 1155,
+        "isNew": false,
+        "codes": "yIjM3ATMzATM1ATM4ATMyATM4QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4434133,
+        "chapterName": "第584话 灭族之战",
+        "order": 1156,
+        "isNew": false,
+        "codes": "yIjM3ATM0ATMwATM1ATMzATM5QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4434134,
+        "chapterName": "第585话 逃出生天",
+        "order": 1157,
+        "isNew": false,
+        "codes": "yIjM3ATM0ATMwATM1ATMzATM5QTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM1ATM5QTM1UTM"
+    },
+    {
+        "id": 4448946,
+        "chapterName": "第586话 暗子",
+        "order": 1158,
+        "isNew": false,
+        "codes": "yIjM3ATM0ATMxATM5ATMxETMwUTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM0ATM1QTM4QTM"
+    },
+    {
+        "id": 4463146,
+        "chapterName": "第587话 亡命之徒",
+        "order": 1159,
+        "isNew": false,
+        "codes": "yIjM3ATM0ATMzATM0ATMzATMwUTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM0ATM1QTM4QTM"
+    },
+    {
+        "id": 4492731,
+        "chapterName": "第588话 再入天墓",
+        "order": 1160,
+        "isNew": false,
+        "codes": "yIjM3ATM0ATM2ATMzATM5ATM5QTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATM0ATM1QTM4QTM"
+    },
+    {
+        "id": 4508421,
+        "chapterName": "第589话 天墓之魂",
+        "order": 1161,
+        "isNew": false,
+        "codes": "yIjM3ATM1ATM=cTO5ATM2ATM4QTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4524853,
+        "chapterName": "第590话 先祖",
+        "order": 1162,
+        "isNew": false,
+        "codes": "yIjM3ATM1ATM=kTO1ATMwETMxUTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4563805,
+        "chapterName": "第591话 父亲",
+        "order": 1163,
+        "isNew": false,
+        "codes": "yIjM3ATM1ATMzATM0ATMwETM2QTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4601030,
+        "chapterName": "第592话 救父",
+        "order": 1164,
+        "isNew": false,
+        "codes": "yIjM3ATM2ATM=cTOyATMyATM5QTM=YTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4657948,
+        "chapterName": "第593话 混战",
+        "order": 1165,
+        "isNew": false,
+        "codes": "yIjM3ATM2ATMyATM4ATMxETMwUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4735347,
+        "chapterName": "第594话 少主的末日",
+        "order": 1166,
+        "isNew": false,
+        "codes": "yIjM3ATM3ATMwATM2ATM1ATMwUTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4776556,
+        "chapterName": "第595话 死寂之门",
+        "order": 1167,
+        "isNew": false,
+        "codes": "yIjM3ATM3ATM0ATM3ATM3ATMxUTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4803993,
+        "chapterName": "第596话 451 活死人",
+        "order": 1168,
+        "isNew": false,
+        "codes": "yIjM3ATM4ATM=cTO0ATMxETM1UTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4862688,
+        "chapterName": "第597话 452 逃之夭夭",
+        "order": 1169,
+        "isNew": false,
+        "codes": "yIjM3ATM4ATMzATMzATM4ATM0UTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4931825,
+        "chapterName": "第598话 453 雷劫丹",
+        "order": 1170,
+        "isNew": false,
+        "codes": "yIjM3ATM5ATMwATMyATMwETM4QTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 4972668,
+        "chapterName": "第599话 454 七星斗圣",
+        "order": 1171,
+        "isNew": false,
+        "codes": "yIjM3ATM5ATM0ATMzATM4ATMyUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5001091,
+        "chapterName": "第600话 455 迦南的秘密",
+        "order": 1172,
+        "isNew": false,
+        "codes": "yIjM4ATMwATM=cTOyATMyATM1UTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5018997,
+        "chapterName": "第601话 456 深渊之秘",
+        "order": 1173,
+        "isNew": false,
+        "codes": "yIjM4ATMwATM=gTO5ATMxETM1UTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5055899,
+        "chapterName": "第602话 457 洞府巨兽",
+        "order": 1174,
+        "isNew": false,
+        "codes": "yIjM4ATMwATMyATM2ATMwETM1UTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5083507,
+        "chapterName": "第603话 458 一触即发",
+        "order": 1175,
+        "isNew": false,
+        "codes": "yIjM4ATMwATM1ATM0ATM3ATM2QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5144692,
+        "chapterName": "第604话 459 锐不可当",
+        "order": 1176,
+        "isNew": false,
+        "codes": "yIjM4ATMxATMxATM1ATM4ATM1UTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5182926,
+        "chapterName": "第605话 460 重见天日",
+        "order": 1177,
+        "isNew": false,
+        "codes": "yIjM4ATMxATM1ATMzATMxETM4QTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5228007,
+        "chapterName": "第606话 461 老龙皇",
+        "order": 1178,
+        "isNew": false,
+        "codes": "yIjM4ATMyATM=kTO5ATMyATM2QTMzATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5247532,
+        "chapterName": "第607话 462 闯门",
+        "order": 1179,
+        "isNew": false,
+        "codes": "yIjM4ATMyATMxATM4ATM3ATM5QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5275466,
+        "chapterName": "第608话 463 帝品雏丹",
+        "order": 1180,
+        "isNew": false,
+        "codes": "yIjM4ATMyATM0ATM2ATM2ATMyUTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5324491,
+        "chapterName": "第609话 464 帝丹",
+        "order": 1181,
+        "isNew": false,
+        "codes": "yIjM4ATMzATM=kTO1ATM2ATM1UTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5350039,
+        "chapterName": "第610话 465 逃之夭夭",
+        "order": 1182,
+        "isNew": false,
+        "codes": "yIjM4ATMzATMyATMxATMyATM5QTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5390036,
+        "chapterName": "第611话 466 隐匿",
+        "order": 1183,
+        "isNew": false,
+        "codes": "yIjM4ATMzATM2ATMxATMyATM5QTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5414049,
+        "chapterName": "第612话 467 妖族遗珍",
+        "order": 1184,
+        "isNew": false,
+        "codes": "yIjM4ATM0ATM=gTO1ATMyATMwUTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5434205,
+        "chapterName": "第613话 468 异震",
+        "order": 1185,
+        "isNew": false,
+        "codes": "yIjM4ATM0ATMwATM1ATM0ATM2QTMxATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5470946,
+        "chapterName": "第614话 469 异象",
+        "order": 1186,
+        "isNew": false,
+        "codes": "yIjM4ATM0ATM0ATMxATMxETMwUTMyATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5488024,
+        "chapterName": "第615话 470 厄难开端",
+        "order": 1187,
+        "isNew": false,
+        "codes": "yIjM4ATM0ATM1ATM5ATMyATM4QTMwATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5502791,
+        "chapterName": "第616话 471 四方劫难",
+        "order": 1188,
+        "isNew": false,
+        "codes": "yIjM4ATM1ATM=cTOzATM5ATM1UTM=cTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5713373,
+        "chapterName": "第617话 472 破局之策",
+        "order": 1188,
+        "isNew": false,
+        "codes": "yIjM4ATM3ATM=gTO0ATM1ATMzUTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5735102,
+        "chapterName": "第619话 473 兵戈初起",
+        "order": 1189,
+        "isNew": false,
+        "codes": "yIjM4ATM3ATMwATM2ATMzATM2QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5779709,
+        "chapterName": "第620话 474 蛙皇",
+        "order": 1190,
+        "isNew": false,
+        "codes": "yIjM4ATM3ATM0ATMwETM5ATM2QTM1ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5807443,
+        "chapterName": "第621话 475 迷雾之战",
+        "order": 1191,
+        "isNew": false,
+        "codes": "yIjM4ATM4ATM=cTO4ATM2ATMwUTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5826712,
+        "chapterName": "第622话 476 天北城",
+        "order": 1192,
+        "isNew": false,
+        "codes": "yIjM4ATM4ATM=kTO3ATM5ATM3QTM=gTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5890358,
+        "chapterName": "第623话 477 魂塔",
+        "order": 1193,
+        "isNew": false,
+        "codes": "yIjM4ATM4ATM2ATMxATM1ATMxUTM0ATMycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5912933,
+        "chapterName": "第624话 478 两个战场",
+        "order": 1194,
+        "isNew": false,
+        "codes": "yIjM4ATM5ATM=gTOzATMxETM5QTM=kTOycTM2ATM2ATMzATM2UTM4QTM3ATM3ATMzATMzUTM5QTM"
+    },
+    {
+        "id": 5933447,
+        "chapterName": "第625话 479 天域冰原",
+        "order": 1195,
+        "isNew": false,
+        "codes": "yIjM4ATM5ATMwATM0ATM2ATMwUTMzATMycTM2ATM2ATMzATM2UTMyUTM0ETM3ATMxETM5QTM5QTM"
+    },
+    {
+        "id": 5968896,
+        "chapterName": "第626话 480 天煞噬魂丹",
+        "order": 1196,
+        "isNew": false,
+        "codes": "yIjM4ATM5ATMzATM5ATMwETM1UTMyATMycTM2ATM2ATMzATM3UTM0UTMxETM1ATM0ATMzUTMzUTM"
+    },
+    {
+        "id": 5992995,
+        "chapterName": "第481回 禁锢之链",
+        "order": 1197,
+        "isNew": false,
+        "codes": "yIjM4ATM5ATM2ATMzATMxETM1UTMxATMycTM2ATM2ATMzATM2UTMwUTMzETMyATM2ATMwUTMyUTM"
+    },
+    {
+        "id": 6005817,
+        "chapterName": "第482回 天羽圣像",
+        "order": 1198,
+        "isNew": false,
+        "codes": "yIjM5ATMwATM=cTO2ATMwETM3QTMzATMycTM2ATM2ATMzATM2UTM2UTMzETM3ATMzATM2QTMwUTM"
+    },
+    {
+        "id": 6022434,
+        "chapterName": "第483回 异火除魔",
+        "order": 1199,
+        "isNew": false,
+        "codes": "yIjM5ATMwATM=kTOzATM2ATM5QTMwATMycTM2ATM2ATMzATM3UTMyUTM0ETMyATMzATM5QTM5QTM"
+    },
+    {
+        "id": 6034452,
+        "chapterName": "第484回 阵眼核心",
+        "order": 1200,
+        "isNew": false,
+        "codes": "yIjM5ATMwATMwATM1ATM2ATMxUTM=gTOycTM2ATM2ATM0ATM4QTM5QTM5ATM0ATM0ATMzUTMwUTM"
+    },
+    {
+        "id": 6087012,
+        "chapterName": "第485回 破魂阵",
+        "order": 1200,
+        "isNew": false,
+        "codes": "yIjM5ATMwATM1ATM4ATMyATM3QTM=gTOycTM2ATM2ATMzATM3UTM1UTM0ETM1ATM1ATMwUTM1UTM"
+    },
+    {
+        "id": 6093411,
+        "chapterName": "第486回 诡局之端",
+        "order": 1201,
+        "isNew": false,
+        "codes": "yIjM5ATMwATM2ATM0ATM2ATM3QTM=cTOycTM2ATM2ATM0ATM4QTM5QTMzETM1ATM1ATM3QTMxUTM"
+    },
+    {
+        "id": 6109742,
+        "chapterName": "第487回 胜利？",
+        "order": 1202,
+        "isNew": false,
+        "codes": "yIjM5ATMxATM=cTOwETM5ATMwUTM=gTOycTM2ATM2ATMzATM2UTM4QTM0ETM5ATM4ATM2QTMxUTM"
+    },
+    {
+        "id": 6127521,
+        "chapterName": "第488回 帝之本源",
+        "order": 1203,
+        "isNew": false,
+        "codes": "yIjM5ATMxATM=kTO4ATM3ATM4QTM=cTOycTM2ATM2ATMzATM2UTM0UTM2ATM4ATM3ATMzUTMxUTM"
+    },
+    {
+        "id": 6151214,
+        "chapterName": "第489回 斗帝之门",
+        "order": 1204,
+        "isNew": false,
+        "codes": "yIjM5ATMxATMyATMyATM0ATM3QTMwATMycTM2ATM2ATMzATM3UTMxUTM1ATM4ATM4ATM3QTMxUTM"
+    },
+    {
+        "id": 6187571,
+        "chapterName": "第490回 陀舍古帝",
+        "order": 1205,
+        "isNew": false,
+        "codes": "yIjM5ATMxATM1ATM4ATM3ATMzUTM=cTOycTM2ATM2ATM0ATM4QTMxUTMyETMxATM3ATM0UTM4QTM"
+    },
+    {
+        "id": 6223996,
+        "chapterName": "第491回 天选之子",
+        "order": 1206,
+        "isNew": false,
+        "codes": "yIjM5ATMyATM=kTO0ATMxETM1UTMyATMycTM2ATM2ATMzATM3UTM4QTMxETMwATMzATM1QTM0UTM"
+    },
+    {
+        "id": 6245643,
+        "chapterName": "第492回 异火之海",
+        "order": 1207,
+        "isNew": false,
+        "codes": "yIjM5ATMyATMxATM2ATM4ATMwUTM=kTOycTM2ATM2ATMzATM3UTM0UTMxETM0ATM0ATM5QTMzUTM"
+    },
+    {
+        "id": 6261650,
+        "chapterName": "第493回 源气",
+        "order": 1208,
+        "isNew": false,
+        "codes": "yIjM5ATMyATMzATMyATM4ATMxUTM=YTOycTM2ATM2ATM0ATM4QTMwUTMxETM4ATM2ATMyUTMxUTM"
+    },
+    {
+        "id": 6275942,
+        "chapterName": "第494回 帝焱莲心",
+        "order": 1209,
+        "isNew": false,
+        "codes": "yIjM5ATMyATM0ATM2ATMxETMwUTM=gTOycTM2ATM2ATMzATM2UTMwUTMzETM0ATM3ATMyUTM5QTM"
+    },
+    {
+        "id": 6289244,
+        "chapterName": "第495回 恍如隔世（上）",
+        "order": 1210,
+        "isNew": false,
+        "codes": "yIjM5ATMyATM1ATMwETM0ATMwUTMwATMycTM2ATM2ATMzATM2UTM3UTMyETMzATM2ATM4QTMxUTM"
+    },
+    {
+        "id": 6300864,
+        "chapterName": "第496回 恍如隔世（下）",
+        "order": 1211,
+        "isNew": false,
+        "codes": "yIjM5ATMzATM=cTOxATMwETMyUTMwATMycTM2ATM2ATMzATM3UTMyUTM2ATMzATMzATMzUTM3UTM"
+    },
+    {
+        "id": 6317404,
+        "chapterName": "第497回 崩塌",
+        "order": 1212,
+        "isNew": false,
+        "codes": "yIjM5ATMzATM=gTO4ATM2ATM2QTMwATMycTM2ATM2ATM0ATM4QTM4QTM0ETM1ATM3ATMxUTMyUTM"
+    }
+]
